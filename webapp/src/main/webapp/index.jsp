@@ -1,2 +1,2 @@
-<h1> SHIV SAHIL GULERI/h1>
-<h2> BHARAT MATA KI JAI</h2>
+<h1> SHIV SAHIL GULERI</h1>
+<h2> information</h2>
